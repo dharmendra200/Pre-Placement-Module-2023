@@ -7,8 +7,8 @@
 - Preferred Programming Language: C++
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [Dharmendra Raikwar](https://leetcode.com/dharmendraraikwar/)
+- HackerRank: [Dharmendra Raikwar](https://www.hackerrank.com/dharmendra99?hr_r=1)
 
 ## Placement Module
 1. [DS I](https://github.com/dharmendra200/Pre-Placement-Module-2023/tree/main/DS%20I)
